@@ -1,8 +1,11 @@
 Blockchain Demo
+
 简介
+
    这是一个学习区块连技术的入门示例，主要参考
    https://blog.csdn.net/erlib/article/details/79953019
-   但是加入了智能合约pow和libp2p，
+   本例整合了智能合约pow和libp2p
+   
 Quick Start
 
 Clone blockchain-demo and download the dependency.
