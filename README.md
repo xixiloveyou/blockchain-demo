@@ -13,6 +13,8 @@ git clone https://github.com/xixiloveyou/blockchain-demo $GOPATH/src/github.com/
 
 cd $GOPATH/src/github.com/xixiloveyou/blockchain-demo
 
+glide install
+
 go build main.go
  
 查看帮助：
