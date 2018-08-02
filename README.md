@@ -2,8 +2,7 @@ Blockchain Demo
 
 简介
 
-   这是一个学习区块连技术的入门示例，主要参考
-   https://blog.csdn.net/erlib/article/details/79953019
+   这是一个学习区块连技术的入门示例，
    本例整合了智能合约pow和libp2p
    
 Quick Start
@@ -32,4 +31,7 @@ Usage of ./blockchain_p2p_linux:
       
 执行 ：
 ./blockchain_p2p_linux -l 10000 -secio 
+
+主要参考资料：
+   https://blog.csdn.net/erlib/article/details/79953019
 
